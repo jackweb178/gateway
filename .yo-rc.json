@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "gn.balde.jee.gateway"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "gateway",
+    "baseName": "gateway",
+    "packageName": "gn.balde.jee.gateway",
+    "packageFolder": "gn/balde/jee/gateway",
+    "serverPort": "8021",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MTU5Yzc5YjU2NGNiNTcyYmYwZWMyZGIyMWQ3ZGM2MmQxMmVmOTA5ZDA1OGFlNThiYmE3MDNlNjVjZWI2ZDlhMmE2MjhjNzU2MjNlY2Q1MTRmNWM1NTAxZTk2NGIwYjJmZTdhNTZmOWFlM2YwMDczNzc2N2ZkYzc4ZmVmNjBjMGE=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1616863225313,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
